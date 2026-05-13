@@ -503,7 +503,7 @@
       "consumptionCityKWhPer100km": 0,
       "consumptionRuralKWhPer100km": 0,
       "consumptionHighwayKWhPer100km": 0,
-      "maxChargingPowerKW": 90,
+      "maxChargingPowerKW": 165,
       "avgChargingPowerKW": 0
     },
     {
@@ -517,7 +517,7 @@
       "consumptionCityKWhPer100km": 0,
       "consumptionRuralKWhPer100km": 0,
       "consumptionHighwayKWhPer100km": 0,
-      "maxChargingPowerKW": 165,
+      "maxChargingPowerKW": 90,
       "avgChargingPowerKW": 0
     },
     {
